@@ -135,7 +135,7 @@ Connection ~ 6150 2950
 Wire Wire Line
 	6150 2950 6400 2950
 $Sheet
-S 8200 3750 1450 600 
+S 4900 4200 1450 600 
 U 5A75F271
 F0 "Misc" 50
 F1 "misc.sch" 50
